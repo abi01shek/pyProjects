@@ -28,3 +28,4 @@ assert compress('ssssbbz') == '4s2bz'
 assert compress('ppoppppp') == '2po5p'
 assert compress('nnneeeeeeeeeeeezz') == '3n12e2z'
 assert compress('yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy') == '127y'
+
