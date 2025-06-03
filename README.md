@@ -1,1 +1,1 @@
-Python projects go here i guess
+Data structure and algorithm exercises for practice
