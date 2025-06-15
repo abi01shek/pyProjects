@@ -2,16 +2,16 @@
 
 RumbleDB is in Java and we want to be able to write python programs that interact with RumbleDB classes. For this we can use py4j library.
 
-RumbleDB: https://rumble.readthedocs.io/en/latest/Getting%20started/
-Installing Py4j: https://www.py4j.org/install.html#install-instructions
 
 ## Setup
 ### RumbleDB
 https://rumble.readthedocs.io/en/latest/Getting%20started/
+
 Download the rumbleDB standalone jar. The jar file will be used in compilation step later
 
 ### Py4j
 Installing Py4j: https://www.py4j.org/install.html#install-instructions
+
 The py4j jar file will also be used in compilation step later
 
 
