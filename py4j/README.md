@@ -5,9 +5,11 @@ RumbleDB is in Java and we want to be able to write python programs that interac
 
 ## Setup
 ### RumbleDB
+Download the rumbleDB standalone jar. The jar file will be used in compilation step later
+
 https://rumble.readthedocs.io/en/latest/Getting%20started/
 
-Download the rumbleDB standalone jar. The jar file will be used in compilation step later
+
 
 ### Py4j
 Installing Py4j: https://www.py4j.org/install.html#install-instructions
